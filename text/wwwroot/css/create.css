@@ -1,0 +1,46 @@
+﻿body {
+}
+.fname {
+   
+    font-size: 20px;
+    font-weight: bold;
+    margin:30px;
+
+
+}
+.lname {
+
+    font-size: 20px;
+    font-weight: bold;
+    margin: 30px;
+}
+.birthdate {
+    
+    font-size: 20px;
+    font-weight: bold;
+    margin: 30px;
+}
+.username {
+    
+    font-size: 20px;
+    font-weight: bold;
+    margin: 30px;
+}
+.pass {
+    
+    font-size: 20px;
+    font-weight: bold;
+    margin: 30px;
+}
+.confirm {
+ 
+    font-size: 20px;
+    font-weight: bold;
+    margin: 30px;
+}
+.cre {
+    margin-left: 200px;
+    margin-top: 40px;
+    
+}
+

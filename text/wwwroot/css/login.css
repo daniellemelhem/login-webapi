@@ -1,0 +1,44 @@
+﻿body {
+    overflow: hidden;
+    /* background-image: url('/images/background.jpg');*/
+    background-image: url('/images/images.jpg');
+    background-size: cover;
+    .bg-image {
+background-image: url('/images/images.jpg');
+height: 100%;
+}
+
+h1.login {
+    font-size: calc(1.525rem + 3.3vw);
+    text-align: center;
+    margin: 100px;
+    color: white;
+}
+
+form {
+    text-align: center;
+   
+}
+
+label {
+   /* color: white;*/
+  font-size: calc(1.525rem + 3.3vw);
+    
+}
+
+.div_username {
+    padding-bottom: 20px;
+}
+.div_logbut{
+    margin-top:25px;
+    
+   
+}
+.div-checkbox {
+    font-size: 8px;
+ 
+    margin: 10px;
+}
+.card {
+    text-align: center;
+}
